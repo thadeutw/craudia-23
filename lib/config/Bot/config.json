@@ -1,0 +1,20 @@
+{
+	"lang": "pt",
+	"owner": ["5519993237891@c.us", "5513997758115@c.us"],
+	"teste": ["559292681705@c.us", "5513997758115@c.us"],
+	"ddi": "55",
+	"prefix": ".",
+	"apifla": "API-KEY NOFLASH",
+	"nobg": "API-KEY REMOVEBG",
+	"wallhv": "API-KEY WALLHAVEN",
+	"deepai": "API-KEY DEEPAI",
+	"gpLimit": "10",
+	"memberReq": "1",
+	"author": "craudia5",
+	"pack": "craudia",
+	"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"timePlay": "30",
+	"antiFlood": "3",
+	"maxSize": "16",
+	"WinTime": "60"
+}
